@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "title": "Total Lawyer",
+        "value": "199",
+        "icon": "https://i.ibb.co.com/9H6BBmvt/success-doctor.png"
+    },
+    {
+        "id": 2,
+        "title": "Total Reviews",
+        "value": "467",
+        "icon": "https://i.ibb.co.com/35W5W7MZ/success-review.png"
+    },
+    {
+        "id": 3,
+        "title": "Cases Initiated",
+        "value": "1900",
+        "icon": "https://i.ibb.co.com/VYXpKnxw/success-patients.png"
+    },
+    {
+        "id": 4,
+        "title": "Total Staffs",
+        "value": "300",
+        "icon": "https://i.ibb.co.com/DHqCpMpK/success-staffs.png"
+    }
+]

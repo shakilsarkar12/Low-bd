@@ -1,0 +1,5 @@
+.nav-menu a.active,
+.footer-menu a.active{
+    color: #0EA106;
+    border-bottom: 1px solid #0EA106;
+}

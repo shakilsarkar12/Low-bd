@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "question": "What is useState and how does it work in React?",
+        "answer": "useState হলো একটি React Hook যা একটি পরিবর্তনশীল state . এটি একটি পরিবর্তনশীল state মান এবং সেই state এর মান আপডেট করার জন্য একটি ফাংশন রিটার্ন করে । যখন state এর মান পরিবর্তন হয় তখন এটি dom এ পুনরায় Render করে ।",
+        "date": "2025-04-20"
+    },
+    {
+        "id": 2,
+        "question": "What is the purpose of useEffect in React?",
+        "answer": "UseEffect হলো একটি React Hook , এটার মাধ্যমে কোনো কম্পোনেন্ট UI তে দেখানোর পরে যদি তার মান পরিবর্তন হয় তখন এটি স্বয়ংক্রিয়ভাবে তার নির্দিষ্ট কাজ করে। যেমন API থেকে ডাটা আনা । এটি React  এর বাইরের কাজগুলা খুব সহজেই নিয়ন্ত্রণ করে।",
+        "date": "2025-04-21"
+    },
+    {
+        "id": 3,
+        "question": "What is a custom hook in React and when should you use one?",
+        "answer": "React এ Custom Hook হলো একটি ফাংশন যা  'use' দিয়ে শুরু হয় । এটি  এক‌ই লজিক একাধিক কম্পোনেন্টে পুনরায় ব্যবহারযোগ্য করে তোলে ।",
+        "date": "2025-04-22"
+    },
+    {
+        "id": 4,
+        "question": "Difference between controlled and uncontrolled components. Which one is better?",
+        "answer": "যখন Form element এর মান এবং তার পরিবর্তন React state এর মাধ্যমে নিয়ন্ত্রিত হয় তখন তাকে বলে Controlled Component.  এবং যখন Form element  এর মান browser dom এর মাধ্যমে নিয়ন্ত্রিত হয় তখন তাকে বলে Uncontrolled Component  যদি বড় ও ডায়নামিক ফর্ম হয় তবে Controlled Component ভালো হয় ।  আবার যদি সিম্পল বা দ্রুত কাজের জন্য হয় তবে Uncontrolled Component এ ভালো হয়",
+        "date": "2025-04-23"
+    },
+    {
+        "id": 5,
+        "question": "Tell us something about useFormStatus() in React.",
+        "answer": "useFormSattus হলো React এর একটা Hook যা form সাবমিশন state ট্রাক করে । এটি একটি pending ভ্যারিয়েবল রিটার্ন করে যার value বুলিয়ান । যখন form সাবমিট শুরু হয় তখন pending true হয় আর শেষ হলে false হয় ‌",
+        "date": "2025-04-22"
+    }
+]

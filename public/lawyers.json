@@ -1,0 +1,433 @@
+[
+  {
+    "id": 1,
+    "name": "A.M. Amin Uddin",
+    "specialty": "Constitutional & Criminal Law",
+    "experience": 25,
+    "licenseNo": "BD-AG-1001",
+    "availability": [
+      "Monday",
+      "Thursday"
+    ],
+    "fee": 3000,
+    "image": "https://i.ibb.co.com/cSrWBLC9/img-One0d33b7c89c.jpg",
+    "email": "amin.uddin@example.com",
+    "phone": "+8801711001001",
+    "address": "12 Motijheel C/A, Dhaka",
+    "totalCasesHandled": 540,
+    "successRate": 92,
+    "verified": true,
+    "rating": 4.8,
+    "reviews": [
+      {
+        "name": "Farhan Kabir",
+        "review": "Mr. Amin is incredibly professional and knowledgeable in constitutional law."
+      },
+      {
+        "name": "Taslima Rahman",
+        "review": "Helped my family during a very difficult time. Highly recommended!"
+      },
+      {
+        "name": "Rashedul Hasan",
+        "review": "Very thorough and responsive. One of the best lawyers I've met."
+      }
+    ],
+    "desc": "A seasoned lawyer specializing in constitutional and criminal law with over 25 years of experience."
+  },
+  {
+    "id": 2,
+    "name": "Mohammed Forrukh Rahman",
+    "specialty": "Corporate & Tax Law",
+    "experience": 20,
+    "licenseNo": "BD-CT-1002",
+    "availability": [
+      "Tuesday",
+      "Friday",
+      "Saturday"
+    ],
+    "fee": 2500,
+    "image": "https://i.ibb.co.com/bM1h8Fqv/Mohammed-Forrukh-Rahman-Head-of-Chambers.jpg",
+    "email": "forrukh.rahman@example.com",
+    "phone": "+8801711001002",
+    "address": "56 Gulshan Avenue, Dhaka",
+    "totalCasesHandled": 470,
+    "successRate": 89,
+    "verified": true,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "name": "Sara Ahmed",
+        "review": "Exceptional corporate lawyer. Managed our business tax issues very efficiently."
+      },
+      {
+        "name": "Muneeb Khan",
+        "review": "A highly skilled lawyer, made complicated matters easy to understand."
+      },
+      {
+        "name": "Rina Begum",
+        "review": "Fantastic experience. Very professional and helpful throughout."
+      }
+    ],
+    "desc": "An experienced corporate and tax lawyer who provides comprehensive legal solutions for businesses."
+  },
+  {
+    "id": 3,
+    "name": "Barrister Shajib Mahmood Alam",
+    "specialty": "Corporate & Commercial Law",
+    "experience": 15,
+    "licenseNo": "BD-CC-1003",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Saturday",
+      "Sunday"
+    ],
+    "fee": 2400,
+    "image": "https://i.ibb.co.com/399txXkj/1745218596305.jpg",
+    "email": "shajib.alam@example.com",
+    "phone": "+8801711001003",
+    "address": "Banani Block B, Dhaka",
+    "totalCasesHandled": 350,
+    "successRate": 85,
+    "verified": true,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "name": "Samiul Hasan",
+        "review": "Professional and effective in corporate law. Would recommend."
+      },
+      {
+        "name": "Anika Rahman",
+        "review": "Provided great support throughout our commercial legal matters."
+      },
+      {
+        "name": "Kazi Zubair",
+        "review": "Clear communication, easy to work with, and very knowledgeable."
+      }
+    ],
+    "desc": "A barrister specializing in corporate and commercial law, offering expert legal advice for businesses."
+  },
+  {
+    "id": 4,
+    "name": "Amina Khatoon",
+    "specialty": "Corporate Finance & Restructuring",
+    "experience": 14,
+    "licenseNo": "BD-CF-1004",
+    "availability": [
+      "Tuesday",
+      "Thursday",
+      "Saturday"
+    ],
+    "fee": 2300,
+    "image": "https://i.ibb.co.com/hFdvzKPb/630-03479627en-Masterfile.jpg",
+    "email": "amina.khatoon@example.com",
+    "phone": "+8801711001004",
+    "address": "Uttara Sector 7, Dhaka",
+    "totalCasesHandled": 330,
+    "successRate": 84,
+    "verified": true,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "name": "Nashit Chowdhury",
+        "review": "Very experienced and reliable in corporate finance matters."
+      },
+      {
+        "name": "Moushumi Sultana",
+        "review": "Excellent advice on restructuring our company's finances. Highly recommend."
+      },
+      {
+        "name": "Abdul Hakim",
+        "review": "Amina Khatoon is the best when it comes to corporate law and finance."
+      }
+    ],
+    "desc": "A skilled corporate finance lawyer with a focus on restructuring and corporate law."
+  },
+  {
+    "id": 5,
+    "name": "Anita Rahman",
+    "specialty": "Corporate & Commercial Law",
+    "experience": 13,
+    "licenseNo": "BD-CC-1005",
+    "availability": [
+      "Monday",
+      "Sunday",
+      "Thursday"
+    ],
+    "fee": 2500,
+    "image": "https://i.ibb.co.com/Vpxhqds2/Anita-Rehman.jpg",
+    "email": "anita.rahman@example.com",
+    "phone": "+8801711001005",
+    "address": "Dhanmondi 27, Dhaka",
+    "totalCasesHandled": 310,
+    "successRate": 83,
+    "verified": false,
+    "rating": 4.4,
+    "reviews": [
+      {
+        "name": "Hassan Mollah",
+        "review": "Very professional and great at explaining legal complexities."
+      },
+      {
+        "name": "Sadia Islam",
+        "review": "Fantastic experience, kept us informed every step of the way."
+      },
+      {
+        "name": "Mizanur Rahman",
+        "review": "Handled our corporate case very efficiently and got us great results."
+      }
+    ],
+    "desc": "A dedicated lawyer specializing in corporate and commercial law with a strong focus on client results."
+  },
+  {
+    "id": 6,
+    "name": "Shahdeen Malik",
+    "specialty": "Constitutional & Human Rights Law",
+    "experience": 30,
+    "licenseNo": "BD-CH-1006",
+    "availability": [
+      "Wednesday",
+      "Friday"
+    ],
+    "fee": 3500,
+    "image": "https://i.ibb.co.com/4n8wCQ05/shahdeen-1-1.jpg",
+    "email": "shahdeen.malik@example.com",
+    "phone": "+8801711001006",
+    "address": "Baridhara DOHS, Dhaka",
+    "totalCasesHandled": 620,
+    "successRate": 94,
+    "verified": true,
+    "rating": 4.9,
+    "reviews": [
+      {
+        "name": "Sajeda Begum",
+        "review": "A true expert in human rights law. Extremely satisfied with the result!"
+      },
+      {
+        "name": "Fahim Chowdhury",
+        "review": "Dr. Malik is one of the finest constitutional lawyers out there."
+      },
+      {
+        "name": "Ayesha Sultana",
+        "review": "He handled our case with professionalism and care. A trustworthy lawyer."
+      }
+    ],
+    "desc": "A distinguished lawyer specializing in constitutional and human rights law with decades of experience."
+  },
+  {
+    "id": 7,
+    "name": "Al Amin Rahman",
+    "specialty": "Corporate & Commercial Law",
+    "experience": 17,
+    "licenseNo": "BD-CC-1007",
+    "availability": [
+      "Tuesday",
+      "Thursday",
+      "Sunday"
+    ],
+    "fee": 2400,
+    "image": "https://i.ibb.co.com/m5xcr6HS/Barrister-advocate-supremecourt-appellatedivision-Corporate-lawyer-bangladesh-alaminrahman.jpg",
+    "email": "alamin.rahman@example.com",
+    "phone": "+8801711001007",
+    "address": "Mirpur DOHS, Dhaka",
+    "totalCasesHandled": 390,
+    "successRate": 87,
+    "verified": true,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "name": "Rifat Ahmed",
+        "review": "Strong legal advice and outstanding service for our corporate restructuring."
+      },
+      {
+        "name": "Rukhsana Ali",
+        "review": "Efficient and very professional with great communication."
+      },
+      {
+        "name": "Mohiuddin Ahmed",
+        "review": "Handled my case in a timely manner and with great attention to detail."
+      }
+    ],
+    "desc": "A dedicated corporate lawyer offering top-notch advice and legal solutions for businesses."
+  },
+  {
+    "id": 8,
+    "name": "Saqeb Mahbub",
+    "specialty": "Corporate & Commercial Law",
+    "experience": 12,
+    "licenseNo": "BD-CC-1008",
+    "availability": [
+      "Monday",
+      "Wednesday",
+      "Friday"
+    ],
+    "fee": 2200,
+    "image": "https://i.ibb.co.com/tPDnxJSh/1648707779127.jpg",
+    "email": "saqeb.mahbub@example.com",
+    "phone": "+8801711001008",
+    "address": "Mohammadpur, Dhaka",
+    "totalCasesHandled": 240,
+    "successRate": 80,
+    "verified": true,
+    "rating": 4.2,
+    "reviews": [
+      {
+        "name": "Aminul Islam",
+        "review": "Good advice, but could have been more responsive."
+      },
+      {
+        "name": "Shahida Begum",
+        "review": "Handled our case very well, overall satisfied with the service."
+      },
+      {
+        "name": "Abir Rahman",
+        "review": "Great experience. Always available to clarify our doubts."
+      }
+    ],
+    "desc": "A focused lawyer in corporate and commercial law, with experience in handling diverse business cases."
+  },
+  {
+    "id": 9,
+    "name": "ABM Hamidul Mishbah",
+    "specialty": "Intellectual Property Law",
+    "experience": 18,
+    "licenseNo": "BD-IP-1009",
+    "availability": [
+      "Tuesday",
+      "Wednesday",
+      "Friday",
+      "Sunday"
+    ],
+    "fee": 2600,
+    "image": "https://i.ibb.co.com/4RGCCsCh/1200px-ABM-Hamidul-Mishbah-3.jpg",
+    "email": "hamidul.mishbah@example.com",
+    "phone": "+8801711001009",
+    "address": "Bashundhara R/A, Dhaka",
+    "totalCasesHandled": 380,
+    "successRate": 90,
+    "verified": true,
+    "rating": 4.7,
+    "reviews": [
+      {
+        "name": "Rafiq Ahmed",
+        "review": "Handled my intellectual property case with precision and expertise."
+      },
+      {
+        "name": "Jannatul Ferdous",
+        "review": "Really pleased with the outcome. Excellent legal advice."
+      },
+      {
+        "name": "Sohail Hasan",
+        "review": "Professional, thorough, and highly knowledgeable in IP law."
+      }
+    ],
+    "desc": "An expert in intellectual property law, offering specialized legal guidance for protecting your assets."
+  },
+  {
+    "id": 10,
+    "name": "Shahwar Nizam",
+    "specialty": "Corporate & Commercial Law",
+    "experience": 16,
+    "licenseNo": "BD-CC-1010",
+    "availability": [
+      "Tuesday",
+      "Thursday"
+    ],
+    "fee": 2450,
+    "image": "https://i.ibb.co.com/twPvbbnQ/Shahwar-Nizam-CV.jpg",
+    "email": "shahwar.nizam@example.com",
+    "phone": "+8801711001010",
+    "address": "Tejgaon, Dhaka",
+    "totalCasesHandled": 460,
+    "successRate": 88,
+    "verified": true,
+    "rating": 4.6,
+    "reviews": [
+      {
+        "name": "Shamim Reza",
+        "review": "Shahwar provided great service for our business law matters."
+      },
+      {
+        "name": "Rahela Sultana",
+        "review": "Professional and very thorough in every aspect of our case."
+      },
+      {
+        "name": "Adnan Chowdhury",
+        "review": "Reliable and effective. Would hire again for future legal issues."
+      }
+    ],
+    "desc": "A corporate and commercial lawyer who specializes in helping businesses navigate complex legal matters."
+  },
+  {
+    "id": 11,
+    "name": "Nusrat Jahan",
+    "specialty": "Family Law",
+    "experience": 12,
+    "licenseNo": "BD-FL-1011",
+    "availability": [
+      "Monday",
+      "Saturday",
+      "Sunday"
+    ],
+    "fee": 2200,
+    "image": "https://i.ibb.co.com/jZv57W7D/1697168673611.jpg",
+    "email": "nusrat.jahan@example.com",
+    "phone": "+8801711001011",
+    "address": "Shyamoli, Dhaka",
+    "totalCasesHandled": 210,
+    "successRate": 78,
+    "verified": true,
+    "rating": 4.3,
+    "reviews": [
+      {
+        "name": "Sanjida Sultana",
+        "review": "Handled my family case with care and sensitivity. Thank you, Nusrat."
+      },
+      {
+        "name": "Rashidul Alam",
+        "review": "Very professional in family law matters. I’m happy with the service."
+      },
+      {
+        "name": "Alisha Rahman",
+        "review": "Excellent service. Really helped us through a tough time."
+      }
+    ],
+    "desc": "A compassionate lawyer specializing in family law, with a focus on providing sensitive legal support."
+  },
+  {
+    "id": 12,
+    "name": "Rafiq Uddin",
+    "specialty": "Civil & Property Law",
+    "experience": 14,
+    "licenseNo": "BD-CP-1012",
+    "availability": [
+      "Thursday",
+      "Friday",
+      "Saturday"
+    ],
+    "fee": 2400,
+    "image": "https://i.ibb.co.com/LDFCTsLk/Barrister-Rafique-Ul-Huq.jpg",
+    "email": "rafiq.uddin@example.com",
+    "phone": "+8801711001012",
+    "address": "Moghbazar, Dhaka",
+    "totalCasesHandled": 400,
+    "successRate": 85,
+    "verified": true,
+    "rating": 4.5,
+    "reviews": [
+      {
+        "name": "Abdul Kader",
+        "review": "Great support and guidance on property-related legal matters."
+      },
+      {
+        "name": "Nasreen Akter",
+        "review": "Handled my civil case efficiently and with great care."
+      },
+      {
+        "name": "Ariful Islam",
+        "review": "Very knowledgeable and helped us achieve a successful outcome."
+      }
+    ],
+    "desc": "An experienced lawyer specializing in civil and property law, offering reliable legal solutions."
+  }
+]
