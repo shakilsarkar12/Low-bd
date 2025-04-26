@@ -75,6 +75,7 @@ const Root = () => {
       );
 
       setUser(userCredential.user);
+      toast.success("Log In Successfull !")
       setError("");
     } catch (err) {
       setError(err.message);
@@ -104,18 +105,19 @@ const Root = () => {
   const provider = new GoogleAuthProvider();
 
   const handleGoogleAuth = () => {
-    console.log("clicked google button");
-    signInWithPopup(auth, provider)
-      .then((result) => {
-        setPersistence(auth, browserSessionPersistence);
-        const user = result.user;
-        console.log(user.photoURL)
-        setUser(user);
-        toast.success(`${user.displayName} You have loged In !`);
-      })
-      .catch((error) => {
-        console.log(error);
-      });
+setPersistence(auth, browserSessionPersistence)
+  .then(() => {
+    return signInWithPopup(auth, provider);
+  })
+  .then((result) => {
+    const user = result.user;
+    setUser(user);
+    toast.success(`${user.displayName} You have logged in!`);
+  })
+  .catch((error) => {
+    console.log(error);
+  });
+
   };
 
   return (
