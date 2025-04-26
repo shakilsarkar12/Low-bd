@@ -118,6 +118,8 @@ setPersistence(auth, browserSessionPersistence)
     console.log(error);
   });
 
+    
+    
   };
 
   return (
